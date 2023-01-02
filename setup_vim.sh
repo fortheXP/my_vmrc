@@ -1,11 +1,11 @@
 cat << EOF > ~/.vimrc
-vim.opt.nu = true
-vim.opt.relativenumber = true
+set nu = true
+set relativenumber = true
 
-vim.opt.tabstop = 4
-vim.opt.softtabstop = 4
-vim.opt.shiftwidth = 4
-vim.opt.expandtab = true
+set tabstop = 4
+set softtabstop = 4
+set shiftwidth = 4
+set expandtab = true
 
-vim.opt.scrolloff = 8
+set scrolloff = 8
 EOF
