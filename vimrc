@@ -7,3 +7,5 @@ set shiftwidth=4
 set expandtab 
 
 set scrolloff=8
+set smartindent 
+set autoindent
